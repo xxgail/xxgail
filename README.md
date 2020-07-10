@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋  I'm 盖
+
+> Stay Hungry Stay Foolish
+
+- 🔭 I’m currently working on PHP
+- 🌱 I’m currently learning Go
 
 <!--
 **xxgail/xxgail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
