@@ -1,10 +1,10 @@
-### Hello 👋  I'm 老盖
+### Hello (✩˙Ⱉ˙ฅ)  I'm 老盖
 
 > Stay Hungry Stay Foolish
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning Go
-- ✨ [(○｀（●●）´○)ノ](https://github.com/rakuyo) ✨
+- ✨ [一条小鱼<+))><<](https://github.com/rakuyo) ✨
 
 <!--
 **xxgail/xxgail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
