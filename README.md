@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning Go
+- ✨ [(○｀（●●）´○)ノ](https://github.com/rakuyo) ✨
 
 <!--
 **xxgail/xxgail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
