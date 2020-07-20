@@ -1,10 +1,13 @@
-### Hello (✩˙Ⱉ˙ฅ)  I'm 老盖
+### (✩˙Ⱉ˙ฅ) I'm xxgail.
 
 > Stay Hungry Stay Foolish
 
+
 - 🔭 I’m currently working on PHP
-- 🌱 I’m currently learning Go
-- ✨ [我的一条小鱼<+))><<](https://github.com/rakuyoMo) ✨
+- 🌱 I’m currently learning Go and Algorithm
+- This is my study notes ⚡ [xxgail's notes](https://www.yuque.com/xxgail) ⚡
+- This is my learning partner ✨ [rakuyo](https://github.com/rakuyoMo) ✨
+
 
 <!--
 **xxgail/xxgail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
